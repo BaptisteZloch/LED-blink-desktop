@@ -1,0 +1,10 @@
+C:\Users\admin\Documents\Mes documents\C#\Arduino_serial_communication\bin\Debug\Arduino_serial_communication.exe.config
+C:\Users\admin\Documents\Mes documents\C#\Arduino_serial_communication\bin\Debug\Arduino_serial_communication.exe
+C:\Users\admin\Documents\Mes documents\C#\Arduino_serial_communication\bin\Debug\Arduino_serial_communication.pdb
+C:\Users\admin\Documents\Mes documents\C#\Arduino_serial_communication\obj\Debug\Arduino_serial_communication.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Mes documents\C#\Arduino_serial_communication\obj\Debug\Arduino_serial_communication.Form1.resources
+C:\Users\admin\Documents\Mes documents\C#\Arduino_serial_communication\obj\Debug\Arduino_serial_communication.Properties.Resources.resources
+C:\Users\admin\Documents\Mes documents\C#\Arduino_serial_communication\obj\Debug\Arduino_serial_communication.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Mes documents\C#\Arduino_serial_communication\obj\Debug\Arduino_serial_communication.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Mes documents\C#\Arduino_serial_communication\obj\Debug\Arduino_serial_communication.exe
+C:\Users\admin\Documents\Mes documents\C#\Arduino_serial_communication\obj\Debug\Arduino_serial_communication.pdb
